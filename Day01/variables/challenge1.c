@@ -3,11 +3,11 @@ int main() {
    char  nom[10], prenom[10], email[40], sexe[10];
 int age;
 printf("entey votre nom:");
-scanf("%s", name);
+scanf("%s", nom);
 printf("enter votre prenom:");
 scanf("%s", prenom);
 printf("entrey votre email:");
-scanf("%s"; email);
+scanf("%s", email);
 printf("entrez votre sexe");
 scanf("%s", sexe);
 printf("entrez votre age:");
