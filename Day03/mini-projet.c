@@ -68,7 +68,7 @@ void supprimer(){
             }
             
             printf("Contact supprimé avec succès.\n");
-        break0;
+        break;
         }
         
 
